@@ -1,6 +1,6 @@
 #2. Programam que utiliza la funcion que valida el numero de un celular
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 
 cel=os.sys.argv[1]

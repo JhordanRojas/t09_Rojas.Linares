@@ -1,6 +1,6 @@
 #9. Funcion que valida si un numero es capicua
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 numbr=os.sys.argv[1]
 

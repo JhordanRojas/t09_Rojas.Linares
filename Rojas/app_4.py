@@ -1,6 +1,6 @@
 #4. Funcion que calcula el area de un circulo
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 radia=os.sys.argv[1]
 

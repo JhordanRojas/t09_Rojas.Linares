@@ -1,7 +1,7 @@
 # Programa que utiliza la funcion que valida un numero de dni
 #importamos la libreria
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 dni=int(os.sys.argv[1])
 one= es_dni(dni)

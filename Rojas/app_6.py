@@ -1,6 +1,6 @@
 #6. Funcion que pide la edadde una persona mayor de edad
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 edad=os.sys.argv[1]
 

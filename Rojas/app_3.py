@@ -1,6 +1,6 @@
 #3. Funcion que Valida un codigo universitario
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 codi=os.sys.argv[1]
 thre=codigo_uni(codi)

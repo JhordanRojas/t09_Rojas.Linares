@@ -1,6 +1,6 @@
 #11. Funcion que calcula el volumen de un cubo
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 lado=os.sys.argv[1]
 elevn=vol_cube(lado)

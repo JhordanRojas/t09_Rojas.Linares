@@ -1,6 +1,6 @@
 #20. Funcion que calcula el promedio de tres numeros
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 n1=os.sys.argv[1]
 n2=os.sys.argv[2]

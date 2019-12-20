@@ -1,6 +1,6 @@
 #16.funcion que calcula el area de una elipse
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 r_mayor=os.sys.argv[1]
 r_menor=os.sys.argv[2]

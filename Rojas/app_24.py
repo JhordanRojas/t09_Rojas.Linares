@@ -1,6 +1,6 @@
 #24. Funcion que la fuerza de un cuerpo
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 n1=os.sys.argv[1]
 n2=os.sys.argv[2]

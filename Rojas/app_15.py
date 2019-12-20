@@ -1,6 +1,6 @@
 #15. Funcion que calcula el porcentaje
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 part=os.sys.argv[1]
 todo=os.sys.argv[2]

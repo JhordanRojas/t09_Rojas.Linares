@@ -1,6 +1,6 @@
 #8. Funcion que valida si un numero es mimport os
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 numero=os.sys.argv[1]
 

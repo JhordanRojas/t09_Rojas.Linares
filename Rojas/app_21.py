@@ -1,6 +1,6 @@
 #21. Funcion que calcula el area lateral de un prisma reatangular
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 ancho=os.sys.argv[1]
 largo=os.sys.argv[2]

@@ -1,6 +1,6 @@
 #14. Funcion que calcula la sumatoria de numeros naturales
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 sumandos=os.sys.argv[1]
 

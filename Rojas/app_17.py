@@ -1,6 +1,6 @@
 #17. Funcion que calcula el tiempo de encuentro entre dos moviles
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 vel_1=os.sys.argv[1]
 vel_2=os.sys.argv[2]

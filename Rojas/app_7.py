@@ -1,6 +1,6 @@
 #7. Funcion que pide un nombre
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 nombre=os.sys.argv[1]
 

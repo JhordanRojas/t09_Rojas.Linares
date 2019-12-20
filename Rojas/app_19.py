@@ -1,6 +1,6 @@
 #19. Funcion multiplicar 3 numeros
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 n1=os.sys.argv[1]
 n2=os.sys.argv[2]

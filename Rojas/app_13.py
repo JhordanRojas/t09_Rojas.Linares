@@ -1,6 +1,6 @@
 #13.Funcion que calcula el area de un rectangulo
 import os
-from Rojas.library import *
+from Rojas.librerio import *
 
 ancho=os.sys.argv[1]
 alto=os.sys.argv[2]
