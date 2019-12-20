@@ -19,7 +19,7 @@ python app_5.py "9" "3" "8"
 python app_5.py "4" "8" "7"
 
 
-python app_6.py "15"
+python app_6.py "a5"
 python app_6.py "45"
 python app_6.py "18"
 
@@ -79,22 +79,22 @@ python app_20.py "10" "12" "18"
 python app_20.py "11" "45" "20"
 python app_20.py "12" "5" "11"
 
-python app_21.py
-python app_21.py
-python app_21.py
+python app_21.py "5" "6" "4"
+python app_21.py "8" "10" "6"
+python app_21.py "11" "4" "5"
 
-python app_22.py
-python app_22.py
-python app_22.py
+python app_22.py "10" "15"
+python app_22.py "5" "1"
+python app_22.py "100" "54"
 
-python app_23.py
-python app_23.py
-python app_23.py
+python app_23.py "2" "5"
+python app_23.py "3" "2"
+python app_23.py "5" "3"
 
-python app_24.py
-python app_24.py
-python app_24.py
+python app_24.py "10" "5"
+python app_24.py "2" "5"
+python app_24.py "4" "7"
 
-python app_25.py
-python app_25.py
-python app_25.py
+python app_25.py "5"
+python app_25.py "10"
+python app_25.py "3"
