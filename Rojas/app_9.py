@@ -1,10 +1,10 @@
 #9. Funcion que valida si un numero es capicua
 import os
-from Rojas.librerio import *
+import library
 
 numbr=os.sys.argv[1]
 
-nine=es_capicua(numbr)
+nine=library.es_capicua(numbr)
 if nine==True:
     print(numbr," es un numero capicua")
 if (nine=="Invalido"):
