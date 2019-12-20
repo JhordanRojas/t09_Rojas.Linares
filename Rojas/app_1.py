@@ -1,10 +1,10 @@
 # Programa que utiliza la funcion que valida un numero de dni
 #importamos la libreria
 import os
-from Rojas.librerio import *
+import library
 
-dni=int(os.sys.argv[1])
-one= es_dni(dni)
+dni=os.sys.argv[1]
+one=library.es_dni(dni)
 
 #
 if one==True:
