@@ -1,8 +1,9 @@
 #6. Funcion que pide la edadde una persona mayor de edad
 import os
-from Rojas.librerio import *
+import library
 
 edad=os.sys.argv[1]
 
-six=pedir_mayor_edad(edad)
-print(six," Es mayor de edad")
+six=library.es_mayor_edad(edad)
+
+print(edad," Es mayor de edad")
