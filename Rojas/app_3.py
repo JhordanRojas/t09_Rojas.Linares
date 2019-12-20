@@ -1,9 +1,9 @@
 #3. Funcion que Valida un codigo universitario
 import os
-from Rojas.librerio import *
+import library
 
 codi=os.sys.argv[1]
-thre=codigo_uni(codi)
+thre=library.codigo_uni(codi)
 if thre == True:
     print(codi," es un codigo valido")
 else:
