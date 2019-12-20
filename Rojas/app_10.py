@@ -1,8 +1,8 @@
 #10.Funcion que valida el año de nacimiento de un mayor de edad
 import os
-from Rojas.librerio import *
+import library
 
 anio=os.sys.argv[1]
-ten=pedir_anio_mayor(anio)
+ten=library.cump_mayor_edad(anio)
 
 print("Es mayor de edad por haber naciod en ",ten)
