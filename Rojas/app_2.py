@@ -1,8 +1,7 @@
 #2. Programam que utiliza la funcion que valida el numero de un celular
 import os
-from Rojas.librerio import *
-
-
+import library
 cel=os.sys.argv[1]
-two=pedir_cel(cel)
+two=library.pedir_cel(cel)
 print("El celular es ",two)
+
